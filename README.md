@@ -1,5 +1,5 @@
 # co-translating_ribosome_scripts
-![Workflow Figure](https://github.com/GrotjahnLab/co-translating_ribosome_scripts/blob/60b0ec75a050860fbe9242f6442d6a353d3520ae/cover_Image_transparent.png)
+![Workflow Figure](https://github.com/GrotjahnLab/co-translating_ribosome_scripts/blob/2c218c60aba251e4159100c77d47144627bd9c6a/coverart.png)
 Python codes related to the analysis of co-translating ribosomes on outer mitochondrial membrane for this publication:
 > **Cytoplasmic ribosomes on mitochondria alter the local membrane environment for protein import.**
 > Ya-Ting Chang, Benjamin A. Barad, Juliette Hamid, Hamidreza Rahmani, Brian M. Zid, Danielle A. Grotjahn
